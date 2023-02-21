@@ -1,6 +1,7 @@
-# Foobar
+# Telegram bot with chat GPT
 
-A toy project, create my Telegram bot using ChatGPT under the hood
+A toy project, create my Telegram bot using ChatGPT under the hood. 
+Currently, `curie` model is used due to its lowest price 🤑
 It's online and hosted at: https://nanxyaqua.xyz
 Telegram bot: @nanxy_tran_bot
 
